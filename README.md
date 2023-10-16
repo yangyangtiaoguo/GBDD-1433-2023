@@ -12,5 +12,16 @@ File Extraction Code：zxfd
 ## Special importance:
 If our dataset is useful for your research, please be sure to cite our paper, it's important to us. Thank you very much!
 
-Paper title（Soon to be open source）：Bird Object Detection: Dataset Construction, Model Performance Evaluation, and Model Lightweighting
+Paper title：Bird Object Detection: Dataset Construction, Model Performance Evaluation, and Model Lightweighting
+Reference:
+@article{wang2023bird,
+  title={Bird Object Detection: Dataset Construction, Model Performance Evaluation, and Model Lightweighting},
+  author={Wang, Yang and Zhou, Jiaogen and Zhang, Caiyun and Luo, Zhaopeng and Han, Xuexue and Ji, Yanzhu and Guan, Jihong},
+  journal={Animals},
+  volume={13},
+  number={18},
+  pages={2924},
+  year={2023},
+  publisher={MDPI}
+}
 
